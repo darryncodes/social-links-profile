@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
--   GitHub repo: [Add solution URL here](https://github.com/darryncodes/social-links-profile)
--   Live URL: [Add live site URL here](https://darryncodes.github.io/social-links-profile/)
+-   [GitHub repo](https://github.com/darryncodes/social-links-profile)
+-   [Live URL](https://darryncodes.github.io/social-links-profile/)
 
 ## My process
 
